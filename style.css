@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
+body { 
+    text-align: center;
+    background-color: black;
+    font-size: 30px;
+}
+
+h1 {
+    text-decoration: underline;
+    font-family: 'Press Start 2P';
+    color: whitesmoke;
+}
+
+.paragrafo1 {
+    color: whitesmoke;
+}
+
+.paragrafo2 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.paragrafo4 {
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
+
+.paragrafo6 {
+    font-family: 'Syne Mono', monospace;
+    color: white;
+}
+
+.paragrafo8 {
+    font-family: 'Rubik Wet Paint';
+    color: white;
+}
+
+.paragrafo0 {
+    font-family: 'Tilt Prism';
+    color: white;
+}
